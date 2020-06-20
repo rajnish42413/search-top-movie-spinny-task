@@ -15,6 +15,13 @@ Comes from [Spinny Task](http://www.omdbapi.com/?type=movie&apikey=a1b5f9ec&s=ab
 ### Check out in expo [LIVE DEMO](https://expo.io/@rajnish42413)
 
 -----
+### Try it on EXPO APP
+Download Expo app and scan qr code from this link 
+```
+https://expo.io/@rajnish42413
+```
+
+-----
 ### Try it yourself
 Clone and go into cloned directory
 ```

@@ -1,6 +1,6 @@
 # Spinny Movie Search Task Submition By Rajnish Singh
 ![Spinny](https://res.cloudinary.com/dh7apsl5o/image/upload/v1592666496/spinny/001.jpg)
-### A react native application that for searching move and save to list.
+### A react native application that for searching movie and save to list.
 
 -----
 ### Tech used:
